@@ -13,8 +13,13 @@
     "next": "latest",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-markdown": "^5.0.3",
+    "react-tinacms-editor": "^0.38.0",
+    "react-tinacms-inline": "^0.38.0",
     "remark": "13.0.0",
-    "remark-html": "13.0.1"
+    "remark-html": "13.0.1",
+    "styled-components": "^5.2.1",
+    "tinacms": "^0.38.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.1",
